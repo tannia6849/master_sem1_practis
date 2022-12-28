@@ -15,4 +15,4 @@
 
 ### Дополнительные материалы
 [Инструменты для реализации геймификации в образовательном процессе](https://github.com/tannia6849/master_sem1_practis/blob/main/Инструменты.pdf)   
-[Список литературы]()
+[Список литературы](https://github.com/tannia6849/master_sem1_practis/blob/main/Литература.pdf)
